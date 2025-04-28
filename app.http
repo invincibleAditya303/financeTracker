@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/transactions
+Content-Type: 'application/json'
+
+{
+    "amount": 500,
+    "date": "26-04-2025",
+    "description": "Paid for badminton court"
+}
+###
